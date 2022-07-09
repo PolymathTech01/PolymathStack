@@ -1,2 +1,3 @@
 # PolymathStack
-A stack over flow clone
+
+A Stack Overflow clone
